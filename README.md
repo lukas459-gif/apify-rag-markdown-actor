@@ -1,5 +1,7 @@
 # 🚀 Heading-Aware Markdown & RAG Data Preparation Actor
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RLKkKUuq6vC6oRSG3i0dT6XWqWfQKGgh?usp=sharing)
+
 Convert any webpage or complex documentation into clean, structured Markdown optimized specifically for **Retrieval-Augmented Generation (RAG)** pipelines and Large Language Models (LLMs).
 
 Unlike standard HTML-to-Markdown converters that output noisy text, this Actor respects document hierarchy, preserves crucial metadata, enforces strict token/length constraints, and formats structured elements like tables and code blocks for optimal vector embedding.
